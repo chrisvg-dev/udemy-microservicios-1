@@ -1,0 +1,5 @@
+package springbootserviciozuulserver.filters;
+
+public class PreTiempoTranscurridoFilter {
+
+}
